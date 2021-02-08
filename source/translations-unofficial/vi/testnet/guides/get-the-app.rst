@@ -35,6 +35,6 @@ Yêu cầu: iOS 13 trở lên
 2. Tham gia `TestFlight beta program`_ bằng iPhone (liên kết hoạt động nếu bạn click trực tiếp bằng iPhone), và làm theo các bước hướng dẫn để thêm ứng dụng Concordium ID vào TestFlight
 3. Mở ứng dụng TestFlight và cài đặt Concordium ID
 
-Hỗ trợ và phản hồi
+Hỗ trợ & phản hồi
 =======================================
 Nếu bạn gặp vấn đề nào hoặc có đề xuất, hãy đăng lên `Discord`_ hoặc gửi mail đến testnet@concordium.com
